@@ -1,3 +1,5 @@
+<img src="assets/icon-512.png" alt="Headroom Desk" width="96" height="96">
+
 # Headroom Desk options calculators (MCP server)
 
 Exact options arithmetic for AI assistants: P/L at expiry and breakevens for up to 8 legs, Black-Scholes value, Greeks and implied volatility, covered call, cash-secured put, covered-call roll and annualized return. A free remote MCP server, read-only, no sign-in, nothing stored.
