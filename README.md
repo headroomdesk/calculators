@@ -8,6 +8,8 @@ Exact options arithmetic for AI assistants: P/L at expiry and breakevens for up 
 **Docs:** https://headroomdesk.com/mcp-server/
 **Official MCP Registry:** `io.github.headroomdesk/calculators`
 
+[![headroomdesk/calculators MCP server](https://glama.ai/mcp/servers/headroomdesk/calculators/badges/score.svg)](https://glama.ai/mcp/servers/headroomdesk/calculators)
+
 ## Add it to your assistant
 
 | Client | How |
